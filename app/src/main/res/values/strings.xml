@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Clicker</string>
+    <string name="gamename">gameName</string>
+    <string name="countrykz">Country:Kazakhstan</string>
+    <string name="clicks">CLICKS:</string>
+    <string name="tap">TAP</string>
+    <string name="country">country</string>
+    <string name="start">START</string>
+    <string name="welcome">Welcome</string>
+    <string name="change">change-country</string>
+
+</resources>
