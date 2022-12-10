@@ -21,7 +21,7 @@ public class SecondActivity extends AppCompatActivity {
     public void onClick(View v){
         TextView textView = findViewById(R.id.textView);
         click++;
-        textView.setText("CLIKS: "+ click);
+        textView.setText("CLICKS: "+ click);
     }
     public void change(View v){
         TextView textView = findViewById(R.id.textView2);
